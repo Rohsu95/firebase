@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "routes/styles.css";
 import App from "./components/App";
 import { firebase } from "./fBase";
+// import "routes/styles.css";
 // import "./styles.css";
 console.log(firebase);
 
