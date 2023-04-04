@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./components/App";
 import { firebase } from "./fBase";
-// import "routes/styles.css";
-// import "./styles.css";
+import "routes/styles.css";
+
 console.log(firebase);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
